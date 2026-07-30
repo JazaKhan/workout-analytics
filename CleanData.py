@@ -1,4 +1,5 @@
 import pandas as pd
+import json
 
 # See what data looks like
 
@@ -45,3 +46,17 @@ df["typeOfExercise"] = df.apply(classify_row, axis=1)
 
 print("\n--- Exercise type breakdown ---")
 print(df["typeOfExercise"].value_counts())
+
+
+# Load Muscle Grouping 
+
+with open("muscle_groups.json", "r") as f:
+    muscle_group_map = json.load(f)
+
+df["muscle_group"] = df["exercise_title"].map(muscle_group_map)
+
+print("\n--- Muscle group breakdown ---")
+print(df["muscle_group"].value_counts())
+
+print("\n--- Any exercises that didn't get mapped? ---")
+print(df[df["muscle_group"].isna()]["exercise_title"].unique())
