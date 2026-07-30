@@ -158,3 +158,19 @@ longest_gap_row = training_days_sorted[training_days_sorted["days_since_last"] =
 print(f"\n--- Longest gap between training days ---")
 print(f"{longest_gap:.0f} days")
 print(longest_gap_row)
+
+# volume analysis
+
+# Calc volume for every weighted set
+weighted_df = weighted_df.copy()
+weighted_df["set_volume"] = weighted_df["weight_lbs"] * weighted_df["reps"]
+
+volume_by_muscle = weighted_df.groupby("primary_muscle_group")["set_volume"].sum().sort_values(ascending=False)
+
+print("\n--- Total volume by muscle group (weighted exercises only) ---")
+print(volume_by_muscle.to_string())
+
+sets_by_muscle = df["primary_muscle_group"].value_counts()
+
+print("\n--- Set count by muscle group (all exercise types) ---")
+print(sets_by_muscle.to_string())
