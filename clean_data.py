@@ -53,13 +53,12 @@ print(df["typeOfExercise"].value_counts())
 with open("muscle_groups.json", "r") as f:
     muscle_group_map = json.load(f)
 
-df["muscle_group"] = df["exercise_title"].map(muscle_group_map)
+df["primary_muscle_group"] = df["exercise_title"].map(
+    lambda ex: muscle_group_map.get(ex, {}).get("primary_muscle_group")
+)
 
-print("\n--- Muscle group breakdown ---")
-print(df["muscle_group"].value_counts())
-
-print("\n--- Any exercises that didn't get mapped? ---")
-print(df[df["muscle_group"].isna()]["exercise_title"].unique())
+print("\n--- Primary muscle group breakdown (from Hevy data) ---")
+print(df["primary_muscle_group"].value_counts())
 
 # Most-logged + weighted exercises
 weighted_df = df[df["typeOfExercise"] == "weighted"]
