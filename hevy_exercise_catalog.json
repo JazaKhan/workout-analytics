@@ -1,0 +1,2634 @@
+{
+  "21s Bicep Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Ab Scissors": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Ab Wheel": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Aerobics": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Air Bike": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Arnold Press (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Around The World": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "shoulders",
+      "lats"
+    ]
+  },
+  "Assisted Pistol Squats": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Back Extension (Hyperextension)": {
+    "primary_muscle_group": "lower_back",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Back Extension (Machine)": {
+    "primary_muscle_group": "lower_back",
+    "secondary_muscle_groups": []
+  },
+  "Back Extension (Weighted Hyperextension)": {
+    "primary_muscle_group": "lower_back",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Ball Slams": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Band Pullaparts": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "upper_back"
+    ]
+  },
+  "Battle Ropes": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Bear Crawl": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Behind the Back Curl (Cable)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Behind the Back Wrist Curl (Barbell)": {
+    "primary_muscle_group": "forearms",
+    "secondary_muscle_groups": []
+  },
+  "Belt Squat (Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Bench Dip": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "chest"
+    ]
+  },
+  "Bench Press (Barbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Bench Press (Cable)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Bench Press - Close Grip (Barbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders"
+    ]
+  },
+  "Bench Press (Dumbbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Bench Press (Smith Machine)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Bench Press - Wide Grip (Barbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Bent Over Row (Band)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Bent Over Row (Barbell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Bent Over Row (Dumbbell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Bent Over Row (Smith Machine)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Bicep Curl (Barbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Bicep Curl (Cable)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Bicep Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Bicep Curl (Machine)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Bicep Curl (Suspension)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Bicycle Crunch": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Bicycle Crunch Raised Legs": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Bird Dog": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "shoulders"
+    ]
+  },
+  "Boxing": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Box Jump": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "calves"
+    ]
+  },
+  "Box Squat (Barbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Bulgarian Split Squat (Barbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Bulgarian Split Squat (Dumbbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Burpee": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Burpee Broad Jumps": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Burpee Over the Bar": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Butterfly (Pec Deck)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Cable Core Pallof Press": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Cable Crunch": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Cable Fly Crossovers": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Cable Pull Through": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "lower_back"
+    ]
+  },
+  "Cable Twist (Down to up)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Cable Twist (Up to down)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Calf Extension (Machine)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Calf Press (Machine)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Cat-Cow": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": [
+      "lower_back",
+      "traps"
+    ]
+  },
+  "Chest Dip": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Chest Dip (Assisted)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Chest Dip (Weighted)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Chest Fly (Band)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Chest Fly (Dumbbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Chest Fly (Machine)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Chest Fly (Suspension)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Chest Press (Band)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Chest Press (Machine)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Chest Supported Incline Row (Dumbbell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Chest Supported Reverse Fly (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "upper_back"
+    ]
+  },
+  "Chest Supported T Bar Row": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Chest Supported Y Raise (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "upper_back"
+    ]
+  },
+  "Chin Up": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Chin Up (Assisted)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Chin Up (Weighted)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Clamshell": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": []
+  },
+  "Clap Push Ups": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Clean": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Clean and Jerk": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Clean and Press": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Clean Pull": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Climbing": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Concentration Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Cross Body Hammer Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Crunch": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Crunch (Machine)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Crunch (Stability Ball)": {
+    "primary_muscle_group": "other",
+    "secondary_muscle_groups": []
+  },
+  "Crunch (Weighted)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Curtsy Lunge (Dumbbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings",
+      "adductors"
+    ]
+  },
+  "Cycling": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Dead Bug": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Dead Hang": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "forearms"
+    ]
+  },
+  "Deadlift (Band)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ]
+  },
+  "Deadlift (Barbell)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ]
+  },
+  "Deadlift (Dumbbell)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ]
+  },
+  "Deadlift High Pull": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Deadlift (Smith Machine)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ]
+  },
+  "Deadlift (Trap bar)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ]
+  },
+  "Decline Bench Press (Barbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Decline Bench Press (Dumbbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Decline Bench Press (Machine)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Decline Bench Press (Smith Machine)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Decline Chest Fly (Dumbbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Decline Crunch": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Decline Crunch (Weighted)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Decline Push Up": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Diamond Push Up": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders"
+    ]
+  },
+  "Downward Dog": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Drag Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Dragon Flag": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Dragonfly": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Dumbbell Row": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Dumbbell Snatch": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Dumbbell Squeeze Press": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Dumbbell Step Up": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Elbow to Knee": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Elliptical Trainer": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "EZ Bar Biceps Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Face Pull": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "biceps"
+    ]
+  },
+  "Farmers Walk": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Feet Up Bench Press (Barbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Fire Hydrants": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": []
+  },
+  "Floor Press (Barbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Floor Press (Dumbbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Floor Triceps Dip": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "shoulders"
+    ]
+  },
+  "Flutter Kicks": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Frog Jumps": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings",
+      "calves"
+    ]
+  },
+  "Frog Pumps (Dumbbell)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings"
+    ]
+  },
+  "Front Lever Hold": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Front Lever Raise": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Front Raise (Band)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Front Raise (Barbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Front Raise (Cable)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Front Raise (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Front Raise (Suspension)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Front Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Full Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Glute Bridge": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps"
+    ]
+  },
+  "Glute Bridge (Barbell)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "adductors",
+      "quadriceps"
+    ]
+  },
+  "Glute Ham Raise": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes"
+    ]
+  },
+  "Glute Kickback (Machine)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings"
+    ]
+  },
+  "Glute Kickback on Floor": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings"
+    ]
+  },
+  "Goblet Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Good Morning (Barbell)": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ]
+  },
+  "Gorilla Row (Kettlebell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Hack Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Hack Squat (Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Hammer Curl (Band)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Hammer Curl (Cable)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Hammer Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Handstand Hold": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Handstand Push Up": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "chest",
+      "triceps"
+    ]
+  },
+  "Hang Clean": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Hanging Knee Raise": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Hanging Leg Raise": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Hang Snatch": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Heel Taps": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Hex Press (Dumbbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "High Knees": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "High Knee Skips": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "HIIT": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Hiking": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Hip Abduction (Cable)": {
+    "primary_muscle_group": "abductors",
+    "secondary_muscle_groups": []
+  },
+  "Hip Abduction (Machine)": {
+    "primary_muscle_group": "abductors",
+    "secondary_muscle_groups": []
+  },
+  "Hip Adduction (Cable)": {
+    "primary_muscle_group": "adductors",
+    "secondary_muscle_groups": []
+  },
+  "Hip Adduction (Machine)": {
+    "primary_muscle_group": "adductors",
+    "secondary_muscle_groups": []
+  },
+  "Hip Thrust": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps"
+    ]
+  },
+  "Hip Thrust (Barbell)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "adductors"
+    ]
+  },
+  "Hip Thrust (Dumbbell)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "adductors"
+    ]
+  },
+  "Hip Thrust (Machine)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "adductors"
+    ]
+  },
+  "Hip Thrust (Smith Machine)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "adductors"
+    ]
+  },
+  "Hollow Rock": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Incline Bench Press (Barbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Incline Bench Press (Dumbbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Incline Bench Press (Smith Machine)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Incline Chest Fly (Dumbbell)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Incline Chest Press (Machine)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Incline Push Ups": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Inverted Row": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Iso-Lateral Chest Press (Machine)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Iso-Lateral High Row (Machine)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Iso-Lateral Low Row": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Iso-Lateral Row (Machine)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Jackknife Sit Up": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Jack Knife (Suspension)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "JM Press (Barbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders"
+    ]
+  },
+  "Jumping Jack": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Jumping Lunge": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "calves"
+    ]
+  },
+  "Jump Rope": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Jump Shrug": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Jump Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "calves"
+    ]
+  },
+  "Kettlebell Around the World": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "traps",
+      "chest",
+      "abdominals"
+    ]
+  },
+  "Kettlebell Clean": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Kettlebell Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Kettlebell Goblet Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Kettlebell Halo": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "traps",
+      "upper_back"
+    ]
+  },
+  "Kettlebell High Pull": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": [
+      "traps"
+    ]
+  },
+  "Kettlebell Shoulder Press": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Kettlebell Snatch": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Kettlebell Swing": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Kettlebell Turkish Get Up": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Kipping Pull Up": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Kneeling Pulldown (band)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Kneeling Push Up": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Knee Raise Parallel Bars": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Landmine 180": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "chest",
+      "upper_back",
+      "traps",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Landmine Row": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Landmine Squat and Press": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Lateral Band Walks": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "abductors"
+    ]
+  },
+  "Lateral Box Jump": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "calves"
+    ]
+  },
+  "Lateral Leg Raises": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "abductors"
+    ]
+  },
+  "Lateral Lunge": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "abductors"
+    ]
+  },
+  "Lateral Raise (Band)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Lateral Raise (Cable)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Lateral Raise (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Lateral Raise (Machine)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Lateral Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "abductors"
+    ]
+  },
+  "Lat Pulldown (Band)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Lat Pulldown (Cable)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Lat Pulldown - Close Grip (Cable)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Lat Pulldown (Machine)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Leg Extension (Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": []
+  },
+  "Leg Press Horizontal (Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Leg Press (Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Leg Raise Parallel Bars": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Low Cable Fly Crossovers": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Low Row (Suspension)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "L-Sit Hold": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Lunge": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Lunge (Barbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Lunge (Dumbbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Lying Knee Raise": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Lying Leg Curl (Machine)": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "calves"
+    ]
+  },
+  "Lying Leg Raise": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Lying Neck Curls": {
+    "primary_muscle_group": "neck",
+    "secondary_muscle_groups": []
+  },
+  "Lying Neck Curls (Weighted)": {
+    "primary_muscle_group": "neck",
+    "secondary_muscle_groups": []
+  },
+  "Lying Neck Extension": {
+    "primary_muscle_group": "neck",
+    "secondary_muscle_groups": []
+  },
+  "Lying Neck Extension (Weighted)": {
+    "primary_muscle_group": "neck",
+    "secondary_muscle_groups": []
+  },
+  "Meadows Rows (Barbell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Mountain Climber": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Muscle Up": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Negative Pull Up": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Nordic Hamstrings Curls": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes"
+    ]
+  },
+  "Oblique Crunch": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "One Arm Push Up": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Overhead Curl (Cable)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Overhead Dumbbell Lunge": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "shoulders",
+      "triceps",
+      "upper_back"
+    ]
+  },
+  "Overhead Plate Raise": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "traps"
+    ]
+  },
+  "Overhead Press (Barbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps",
+      "abdominals"
+    ]
+  },
+  "Overhead Press (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Overhead Press (Smith Machine)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Overhead Squat": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Overhead Triceps Extension (Cable)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Partial Glute Bridge (Barbell)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "adductors"
+    ]
+  },
+  "Pause Squat (Barbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Pendlay Row (Barbell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Pendulum Squat (Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Pike Pushup": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps",
+      "chest"
+    ]
+  },
+  "Pilates": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Pinwheel Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Pistol Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Plank": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Plank Pushup": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps",
+      "abdominals"
+    ]
+  },
+  "Plate Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Plate Front Raise": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Plate Press": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Plate Squeeze (Svend Press)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Power Clean": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Power Snatch": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Preacher Curl (Barbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Preacher Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Preacher Curl (Machine)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Press Under": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Pullover (Dumbbell)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "chest",
+      "upper_back",
+      "triceps"
+    ]
+  },
+  "Pullover (Machine)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "chest",
+      "triceps"
+    ]
+  },
+  "Pull Up": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Pull Up (Assisted)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Pull Up (Band)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Pull Up (Weighted)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Push Press": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps",
+      "quadriceps"
+    ]
+  },
+  "Push Up": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Push Up - Close Grip": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Push Up (Weighted)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "triceps",
+      "shoulders"
+    ]
+  },
+  "Rack Pull": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings",
+      "lower_back",
+      "lats",
+      "traps"
+    ]
+  },
+  "Rear Delt Reverse Fly (Cable)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "upper_back"
+    ]
+  },
+  "Rear Delt Reverse Fly (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "upper_back"
+    ]
+  },
+  "Rear Delt Reverse Fly (Machine)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "upper_back"
+    ]
+  },
+  "Rear Kick (Machine)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings"
+    ]
+  },
+  "Recumbent Bike": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Renegade Row (Dumbbell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Reverse Crunch": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Reverse Curl (Barbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Reverse Curl (Cable)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Reverse Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Reverse Fly Single Arm (Cable)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "upper_back"
+    ]
+  },
+  "Reverse Grip Concentration Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Reverse Grip Lat Pulldown (Cable)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps"
+    ]
+  },
+  "Reverse Grip Triceps Pushdown": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Reverse Hyperextension": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "lower_back"
+    ]
+  },
+  "Reverse Lunge": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Reverse Lunge (Barbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Reverse Lunge (Dumbbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Reverse Plank": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Reverse Wrist Curl (Dumbbell)": {
+    "primary_muscle_group": "forearms",
+    "secondary_muscle_groups": []
+  },
+  "Ring Dips": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Ring Pull Up": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Ring Push Up": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": [
+      "shoulders",
+      "triceps"
+    ]
+  },
+  "Romanian Deadlift (Barbell)": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ]
+  },
+  "Romanian Deadlift (Dumbbell)": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ]
+  },
+  "Romanian Deadlift (Smith Machine)": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ]
+  },
+  "Rope Cable Curl": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Rope Straight Arm Pulldown": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Rowing Machine": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Running": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Russian Twist (Bodyweight)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Russian Twist (Weighted)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Scapular Pull Ups": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "forearms"
+    ]
+  },
+  "Seal Row (Barbell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Seal Row (Dumbbell)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Seated Cable Row - Bar Grip": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Seated Cable Row - Bar Wide Grip": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "traps",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Seated Cable Row - V Grip (Cable)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Seated Calf Raise": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Seated Chest Flys (Cable)": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Seated Dip Machine": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders"
+    ]
+  },
+  "Seated Incline Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Seated Incline Hammer Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Seated Lateral Raise (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Seated Leg Curl (Machine)": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "calves"
+    ]
+  },
+  "Seated Overhead Press (Barbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Seated Overhead Press (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Seated Palms Up Wrist Curl": {
+    "primary_muscle_group": "forearms",
+    "secondary_muscle_groups": []
+  },
+  "Seated Row (Machine)": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Seated Shoulder Press (Machine)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Seated Triceps Press": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Seated Wrist Curl (Barbell)": {
+    "primary_muscle_group": "forearms",
+    "secondary_muscle_groups": []
+  },
+  "Seated Wrist Extension (Barbell)": {
+    "primary_muscle_group": "forearms",
+    "secondary_muscle_groups": []
+  },
+  "Shoulder Press (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Shoulder Press (Machine Plates)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Shoulder Taps": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "chest",
+      "triceps"
+    ]
+  },
+  "Shrug (Barbell)": {
+    "primary_muscle_group": "traps",
+    "secondary_muscle_groups": [
+      "neck"
+    ]
+  },
+  "Shrug (Cable)": {
+    "primary_muscle_group": "traps",
+    "secondary_muscle_groups": [
+      "neck"
+    ]
+  },
+  "Shrug (Dumbbell)": {
+    "primary_muscle_group": "traps",
+    "secondary_muscle_groups": [
+      "neck"
+    ]
+  },
+  "Shrug (Machine)": {
+    "primary_muscle_group": "traps",
+    "secondary_muscle_groups": [
+      "neck"
+    ]
+  },
+  "Shrug (Smith Machine)": {
+    "primary_muscle_group": "traps",
+    "secondary_muscle_groups": [
+      "neck"
+    ]
+  },
+  "Side Bend": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Side Bend (Dumbbell)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Side Plank": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Single Arm Cable Crossover": {
+    "primary_muscle_group": "chest",
+    "secondary_muscle_groups": []
+  },
+  "Single Arm Cable Row": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Single Arm Curl (Cable)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Single Arm Landmine Press (Barbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps",
+      "chest"
+    ]
+  },
+  "Single Arm Lateral Raise (Cable)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": []
+  },
+  "Single Arm Lat Pulldown": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Single Arm Tricep Extension (Dumbbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Single Arm Triceps Pushdown (Cable)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Single Leg Extensions": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": []
+  },
+  "Single Leg Glute Bridge": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps"
+    ]
+  },
+  "Single Leg Hip Thrust": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps"
+    ]
+  },
+  "Single Leg Hip Thrust (Dumbbell)": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps"
+    ]
+  },
+  "Single Leg Press (Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Single Leg Romanian Deadlift (Barbell)": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats"
+    ]
+  },
+  "Single Leg Romanian Deadlift (Dumbbell)": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes",
+      "lower_back"
+    ]
+  },
+  "Single Leg Standing Calf Raise": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Single Leg Standing Calf Raise (Barbell)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Single Leg Standing Calf Raise (Dumbbell)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Single Leg Standing Calf Raise (Machine)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Sissy Squat (Weighted)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": []
+  },
+  "Sit Up": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Sit Up (Weighted)": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Skating": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Ski Erg": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Skiing": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Skullcrusher (Barbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Skullcrusher (Dumbbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Sled Pull": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Sled Push": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Snatch": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Snowboarding": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Spider Curl (Barbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Spider Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": []
+  },
+  "Spiderman": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Spinning": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Split Jerk": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Split Squat (Dumbbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Sprints": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Squat (Band)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Squat (Barbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Squat (Bodyweight)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Squat (Dumbbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Squat (Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Squat Row": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Squat (Smith Machine)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Squat (Suspension)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Stair Machine (Floors)": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Stair Machine (Steps)": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Standing Cable Glute Kickbacks": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings"
+    ]
+  },
+  "Standing Calf Raise": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Standing Calf Raise (Barbell)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Standing Calf Raise (Dumbbell)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Standing Calf Raise (Machine)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Standing Calf Raise (Smith)": {
+    "primary_muscle_group": "calves",
+    "secondary_muscle_groups": []
+  },
+  "Standing Leg Curls": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "calves"
+    ]
+  },
+  "Standing Military Press (Barbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Standing Y Raise (Cable)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "upper_back"
+    ]
+  },
+  "Step Up": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Sternum Pull up (Gironda)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Straight Arm Lat Pulldown (Cable)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "triceps"
+    ]
+  },
+  "Straight Leg Deadlift": {
+    "primary_muscle_group": "hamstrings",
+    "secondary_muscle_groups": [
+      "glutes",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ]
+  },
+  "Stretching": {
+    "primary_muscle_group": "other",
+    "secondary_muscle_groups": []
+  },
+  "Suitcase Carry (Dumbbell)": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Sumo Deadlift": {
+    "primary_muscle_group": "glutes",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "quadriceps",
+      "adductors",
+      "lower_back",
+      "upper_back",
+      "lats",
+      "traps"
+    ]
+  },
+  "Sumo Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "Sumo Squat (Barbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "adductors"
+    ]
+  },
+  "Sumo Squat (Dumbbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "Sumo Squat (Kettlebell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "Superman": {
+    "primary_muscle_group": "lower_back",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Swimming": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "T Bar Row": {
+    "primary_muscle_group": "upper_back",
+    "secondary_muscle_groups": [
+      "lats",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Thruster (Barbell)": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Thruster (Kettlebell)": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Toes to Bar": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Toe Touch": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Torso Rotation": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Treadmill": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Dip": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders"
+    ]
+  },
+  "Triceps Dip (Assisted)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders"
+    ]
+  },
+  "Triceps Dip (Weighted)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders"
+    ]
+  },
+  "Triceps Extension (Barbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Extension (Cable)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Extension (Dumbbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Extension (Machine)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Extension (Suspension)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Kickback (Cable)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Kickback (Dumbbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Pressdown": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Pushdown": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Triceps Rope Pushdown": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": []
+  },
+  "Upright Row (Barbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "traps",
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Upright Row (Cable)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "traps",
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Upright Row (Dumbbell)": {
+    "primary_muscle_group": "shoulders",
+    "secondary_muscle_groups": [
+      "traps",
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Vertical Traction (Machine)": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "V Up": {
+    "primary_muscle_group": "abdominals",
+    "secondary_muscle_groups": []
+  },
+  "Waiter Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  },
+  "Walking": {
+    "primary_muscle_group": "cardio",
+    "secondary_muscle_groups": []
+  },
+  "Walking Lunge": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Walking Lunge (Dumbbell)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "Walking Lunge (Sandbag)": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes"
+    ]
+  },
+  "Wall Ball": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Wall Sit": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "abdominals"
+    ]
+  },
+  "Warm Up": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Wide-Elbow Triceps Press (Dumbbell)": {
+    "primary_muscle_group": "triceps",
+    "secondary_muscle_groups": [
+      "chest",
+      "shoulders"
+    ]
+  },
+  "Wide Pull Up": {
+    "primary_muscle_group": "lats",
+    "secondary_muscle_groups": [
+      "upper_back",
+      "biceps",
+      "forearms"
+    ]
+  },
+  "Wrist Roller": {
+    "primary_muscle_group": "forearms",
+    "secondary_muscle_groups": [
+      "shoulders"
+    ]
+  },
+  "Yoga": {
+    "primary_muscle_group": "full_body",
+    "secondary_muscle_groups": []
+  },
+  "Zercher Squat": {
+    "primary_muscle_group": "quadriceps",
+    "secondary_muscle_groups": [
+      "hamstrings",
+      "glutes",
+      "biceps"
+    ]
+  },
+  "Zottman Curl (Dumbbell)": {
+    "primary_muscle_group": "biceps",
+    "secondary_muscle_groups": [
+      "forearms"
+    ]
+  }
+}

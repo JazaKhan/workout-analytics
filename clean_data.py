@@ -60,3 +60,26 @@ print(df["muscle_group"].value_counts())
 
 print("\n--- Any exercises that didn't get mapped? ---")
 print(df[df["muscle_group"].isna()]["exercise_title"].unique())
+
+# Most-logged + weighted exercises
+weighted_df = df[df["typeOfExercise"] == "weighted"]
+
+print("\n--- Top 10 most-logged weighted exercises ---")
+print(weighted_df["exercise_title"].value_counts().head(15))
+
+def get_exercise_progress(exercise_name):
+    ex_df = df[df["exercise_title"] == exercise_name].copy()
+    
+    # Group by date: get max weight and total volume per session
+    progress = ex_df.groupby("date").agg(
+        max_weight=("weight_lbs", "max"),
+        total_volume=("weight_lbs", lambda x: (x * ex_df.loc[x.index, "reps"]).sum())
+    ).reset_index()
+    
+    progress = progress.sort_values("date")
+    return progress
+
+seated_row_progress = get_exercise_progress("Seated Row (Machine)")
+print("\n--- Seated Row (Machine) progress over time ---")
+print(seated_row_progress)
+print("\nTotal sessions logged:", len(seated_row_progress))
