@@ -174,3 +174,100 @@ sets_by_muscle = df["primary_muscle_group"].value_counts()
 
 print("\n--- Set count by muscle group (all exercise types) ---")
 print(sets_by_muscle.to_string())
+
+# Progression vs. Plateau
+
+def check_plateau(exercise_name, recent_days=120, min_recent_sessions=2):
+    ex_df = df[df["exercise_title"] == exercise_name].copy()
+    
+    progress = ex_df.groupby("date").agg(
+        max_weight=("weight_lbs", "max"),
+        max_reps_at_peak=("reps", "max")
+    ).reset_index().sort_values("date")
+    
+    progress["date"] = pd.to_datetime(progress["date"])
+    
+    most_recent_date = progress["date"].max()
+    cutoff_date = most_recent_date - pd.Timedelta(days=recent_days)
+    
+    recent_sessions = progress[progress["date"] > cutoff_date]
+    earlier_sessions = progress[progress["date"] <= cutoff_date]
+    
+    if len(earlier_sessions) == 0 or len(recent_sessions) < min_recent_sessions:
+        return None
+    
+    peak_weight_before = earlier_sessions["max_weight"].max()
+    peak_weight_recent = recent_sessions["max_weight"].max()
+    peak_reps_before = earlier_sessions["max_reps_at_peak"].max()
+    peak_reps_recent = recent_sessions["max_reps_at_peak"].max()
+    
+    weight_improved = peak_weight_recent > peak_weight_before
+    reps_improved = (peak_weight_recent >= peak_weight_before) and (peak_reps_recent > peak_reps_before)
+    weight_declined = peak_weight_recent < peak_weight_before
+    reps_declined = peak_reps_recent < peak_reps_before
+    
+    if weight_improved or reps_improved:
+        status = "progressing"
+    elif weight_declined and reps_declined:
+        status = "regressing"
+    else:
+        status = "plateaued"
+    
+    return {
+        "exercise": exercise_name,
+        "sessions_before": len(earlier_sessions),
+        "sessions_recent": len(recent_sessions),
+        "peak_weight_before": peak_weight_before,
+        "peak_weight_recent": peak_weight_recent,
+        "peak_reps_before": peak_reps_before,
+        "peak_reps_recent": peak_reps_recent,
+        "status": status
+    }
+
+# print(f"\n--- Progress check across top 15 exercises (last 120 days vs. earlier) ---")
+# for exercise in top_exercises:
+#     result = check_plateau(exercise)
+#     if result is None:
+#         print(f"\n{exercise}: not enough sessions to evaluate")
+#         continue
+    
+#     print(f"\n{exercise}: {result['status'].upper()}")
+#     print(f"  Sessions: {result['sessions_before']} before, {result['sessions_recent']} in last 90 days")
+#     print(f"  Peak weight before: {result['peak_weight_before']} lbs")
+#     print(f"  Peak weight recent: {result['peak_weight_recent']} lbs")
+#     print(f"  Peak reps before: {result['peak_reps_before']}")
+#     print(f"  Peak reps recent: {result['peak_reps_recent']}")
+
+print(f"\n--- Progress check across top 15 exercises (last 120 days vs. earlier) ---")
+
+progress_results = []
+
+for exercise in top_exercises:
+    result = check_plateau(exercise)
+    if result is None:
+        print(f"\n{exercise}: not enough sessions to evaluate")
+        continue
+    
+    progress_results.append(result)
+    
+    print(f"\n{exercise}: {result['status'].upper()}")
+    print(f"  Sessions: {result['sessions_before']} before, {result['sessions_recent']} in last 90 days")
+    print(f"  Peak weight before: {result['peak_weight_before']} lbs")
+    print(f"  Peak weight recent: {result['peak_weight_recent']} lbs")
+    print(f"  Peak reps before: {result['peak_reps_before']}")
+    print(f"  Peak reps recent: {result['peak_reps_recent']}")
+
+progress_df = pd.DataFrame(progress_results)
+progress_df.to_csv("progress_summary.csv", index=False)
+print(f"\nExported progress_summary.csv with {len(progress_df)} rows")
+
+monthly_export = monthly_counts_full.reset_index()
+monthly_export.columns = ["month", "training_days"]
+monthly_export["month"] = monthly_export["month"].astype(str)
+monthly_export.to_csv("monthly_consistency.csv", index=False)
+print(f"Exported monthly_consistency.csv with {len(monthly_export)} rows")
+
+# Export cleaned data for Power BI
+
+df.to_csv("cleaned_workouts.csv", index=False)
+print(f"\nExported cleaned_workouts.csv with {len(df)} rows")

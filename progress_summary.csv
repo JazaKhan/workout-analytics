@@ -1,0 +1,11 @@
+exercise,sessions_before,sessions_recent,peak_weight_before,peak_weight_recent,peak_reps_before,peak_reps_recent,status
+Lat Pulldown (Cable),10,5,55.0,55.0,10.0,12.0,progressing
+Shoulder Press (Dumbbell),14,4,15.0,15.0,10.0,10.0,plateaued
+Shrug (Dumbbell),19,2,10.0,15.0,12.0,10.0,progressing
+Bicep Curl (Dumbbell),16,2,10.0,7.0,16.0,10.0,regressing
+Reverse Curl (Dumbbell),17,2,10.0,10.0,8.0,8.0,plateaued
+Hip Thrust (Barbell),13,2,50.0,10.0,16.0,10.0,regressing
+Triceps Extension (Dumbbell),17,3,10.0,10.0,12.0,8.0,plateaued
+Lateral Raise (Dumbbell),11,4,7.0,5.0,11.0,12.0,plateaued
+Dumbbell Row,5,3,10.0,10.0,8.0,8.0,plateaued
+Bulgarian Split Squat (Dumbbell),7,2,10.0,10.0,8.0,8.0,plateaued
